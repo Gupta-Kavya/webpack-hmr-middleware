@@ -44,7 +44,7 @@ With the introduction of webpack-hmr-middleware, we are deprecating webpack-hot-
 1. **Install webpack-hmr-middleware:**
 
 ```bash
-npm install webpack-hmr-middleware --save-dev
+npm i webpack-hmr-middleware --save-dev
 
 ```
 
