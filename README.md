@@ -8,6 +8,8 @@ Simplify and enhance Webpack's development tools by unifying webpack-dev-server,
 
 This project aims to streamline the development experience with Webpack by consolidating the existing development tools into a unified solution. By extracting hot module replacement (HMR) logic into a dedicated middleware package ( **webpack-hmr-middleware** ), we eliminate duplication and improve user experience. Additionally, we transform webpack-dev-server into a monorepo with three distinct packages: `webpack-dev-middleware`, `webpack-hmr-middleware`, and `webpack-dev-server`.
 
+![NPM Package](https://i.postimg.cc/NFhpPJ5f/Screenshot-1.png)
+
 ## Prerequisites
 
 To contribute to this project, you should be familiar with JavaScript, Node.js, CSS, and HTML. Knowledge of Webpack and its ecosystem is also beneficial.
